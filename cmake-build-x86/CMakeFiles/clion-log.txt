@@ -1,0 +1,4 @@
+/clion/clion-2021.3/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/clion/clion-2021.3/bin/ninja/linux/ninja -G Ninja /home/egor/work/new_b/radius_spectrums_software_next
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/egor/work/new_b/radius_spectrums_software_next/cmake-build-x86

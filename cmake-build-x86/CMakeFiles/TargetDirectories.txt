@@ -1,0 +1,4 @@
+/home/egor/work/new_b/radius_spectrums_software_next/cmake-build-x86/CMakeFiles/rebuild_cache.dir
+/home/egor/work/new_b/radius_spectrums_software_next/cmake-build-x86/CMakeFiles/edit_cache.dir
+/home/egor/work/new_b/radius_spectrums_software_next/cmake-build-x86/CMakeFiles/copy_target.dir
+/home/egor/work/new_b/radius_spectrums_software_next/cmake-build-x86/CMakeFiles/radius_spectrums_software_next.dir
